@@ -1,12 +1,11 @@
-Designed and developed a relational database application using Oracle SQL and Oracle APEX to optimize package
-routing and courier workloads.
+Developed as part of the Database Systems course at Politehnica University of Timișoara.
 
+•Designed and implemented a relational database schema consisting of 5 tables (dbColet, dbCurier, dbDepozit,
+dbTarif, dbOras) based on academic laboratory specifications.
 
-•Database Design: Architected a relational schema (Couriers, Packages, Warehouses, Cities, Rates) enforcing strict
-data integrity constraints through SQL DDL (Primary Keys, Foreign Keys, Checks).
+•Wrote SQL DDL scripts to enforce standard data integrity constraints (Primary Keys, Foreign Keys).
 
-•Data Manipulation: Authored SQL DML scripts for data population, testing, and validation of complex business
-scenarios.
+•Developed SQL DML scripts to populate the database with test data and configured standard data entry forms.
 
-•Application Development: Built an interactive Oracle APEX web interface featuring customized data entry forms,
-parameterized search filters, and analytical reporting tools (e.g., aggregating total package weights per courier).
+•Built interactive Oracle APEX pages featuring basic parameterized queries, filtering systems, and statistical
+reports (e.g., tracking total package weights per courier).
